@@ -1,0 +1,15 @@
+wscs-deployment:
+  image:
+    tag: "latest"
+wscs-b-deployment:
+  image:
+    tag: "latest"
+wsnodejs-deployment:
+  image:
+    tag: "edf6dff"
+wsnodejs-b-deployment:
+  image:
+    tag: "master"
+jenkinscd-framework-deployment:
+  image:
+    tag: "sha256:536a791179c01e195d5564c3a292b51a51f6b6f0e096cb18292fe880c20422bd"
